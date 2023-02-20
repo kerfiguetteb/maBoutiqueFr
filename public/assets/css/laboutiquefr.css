@@ -1,0 +1,33 @@
+body{
+    position: relative;
+}
+.navbar-item-custom, .navbar-item-custom a {
+    color: #ececec;
+}
+
+.footer-custom{
+    text-align: center; 
+    position: absolute;
+    
+    width:100%;
+    background-color: #dfeaff;
+    padding-top: 25px;
+    margin-top: 15%;
+}
+.block-small{
+    max-width: 600px;
+    margin: 0 auto;
+}
+.form-check{
+    background-color: #f4f8ff;
+    padding: 20px 65px; 
+    margin-top: 7px;
+}
+.col-form-label{
+    font-weight: bold;
+}
+.order-summary{
+    background-color:#f4f8ff ;
+    padding: 20px;
+    margin-top:22px ;
+}
