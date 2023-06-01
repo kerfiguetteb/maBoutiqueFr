@@ -1,3 +1,2 @@
 # maBoutiqueFr
-# maBoutiqueFr
-# maBoutiqueFr
+Application web e-commerce
